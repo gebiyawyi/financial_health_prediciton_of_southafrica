@@ -1,4 +1,4 @@
-![SME Financial Health Prediction](financial_health_prediciton_of_southafrica/chart/output.png)
+![SME Financial Health Prediction](chart/output.png)
 
 # SME Financial Health Prediction
 
